@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 3rd Year Undergrad at BMS College of Engineering | Ex-Intern @ HiDevs<br>
+BMS College of Engineering | Ex-Intern @ HiDevs<br>
 
 
 ## 🌐 Socials:

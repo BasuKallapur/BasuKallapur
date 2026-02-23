@@ -32,13 +32,8 @@ BMS College of Engineering | Ex-Intern @ HiDevs<br>
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BasuKallapur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BasuKallapur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BasuKallapur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BasuKallapur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Stats](https://streak-stats.demolab.com?user=BasuKallapur&theme=default&hide_border=true)
 
 
 ### ✍️ Random Dev Quote
